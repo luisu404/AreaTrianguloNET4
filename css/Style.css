@@ -1,1 +1,131 @@
-﻿
+﻿.PnlDatosGeneral {
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 20px;
+    width: 400px;
+    height: 260px;
+}
+
+.PnlOpciones {
+    position: absolute;
+    margin-left: -155px;
+    margin-top: -3px;
+    width: 150px;
+    height: 260px;
+   
+}
+.LblTextoOpciones {
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.RbtnOpciones {
+    position: absolute;
+    margin-top: 50px;
+    right: 43px;
+}
+
+
+.PnlFiguras {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    margin-top: 135px;
+}
+
+.ImgFigura {
+    width: 100px;
+    height: 100px;
+}
+.PnlLetrero {
+    position: absolute;
+    margin-left: -1px;
+    margin-top: -3px;
+    width: 399px;
+    height: 40px;
+}
+
+.LblLetrero {
+    position: absolute;
+    margin-left: 120px;
+    margin-top: 10px;
+}
+
+
+
+
+.LblLetreroSeleccion {
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 50px;
+}
+
+.LblValor1 {
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 80px;
+}
+
+.TxtValor1 {
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 100px;
+    text-align: right;
+}
+
+
+.LblValor2 {
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 125px
+}
+
+
+.TxtValor2 {
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 145px;
+    text-align: right;
+}
+
+
+.BtnCalcular {
+    position: absolute;
+    margin-left: 210px;
+    margin-top: 100px;
+    width: 120px;
+    height: 70px;
+    background-color:limegreen;
+}
+
+.BtnLimpiar {
+    position: absolute;
+    margin-left: 310px;
+    margin-top: 200px;
+    background-color:orange;
+    top: 0px;
+    left: 0px;
+}
+
+
+.LblResultado {
+    position: absolute;
+    margin-left: 14px;
+    margin-top: 200px;
+}
+
+.LblResultado2 {
+    position: absolute;
+    margin-left: 130px;
+    margin-top: 200px;
+}
+.LblMensajes {
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 230px;
+    color:darkred;
+    font-size: small;
+}
